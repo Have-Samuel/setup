@@ -67,14 +67,14 @@
   text-align: left;
   margin-left: 2rem;
   margin-right: 2rem;
-  width: 87%;
+  width: 58%;
   color: #fff;
 }
 
 .section-one {
   background: url('images/first-pic.png') rgba(28, 26, 25, 1) no-repeat;
   background-position: right bottom;
-  min-height: 76vh;
+  min-height: 80vh; 
 }
 
 .items {

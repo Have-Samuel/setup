@@ -3,7 +3,8 @@
 * {
   box-sizing: content-box;
     padding: 0;
-    margin: 0 
+    margin: 0;
+    width: auto;
 }
 
 .nav-bar {
@@ -23,7 +24,12 @@
   font-weight: 700;
   line-height: 24px;
   letter-spacing: 0em;
-  text-align: center;
+  cursor: pointer;
+  
+}
+
+.hambug {
+  cursor: pointer;
 }
 
 .section-one h1 {
@@ -32,9 +38,10 @@
   font-style: normal;
   font-weight: 400;
   line-height: 64px;
+  padding-top: 10rem;
   color: #ff6b00;
-  /* background: #1c1a19; */
-  text-align: center;
+  margin-left: 2rem;
+  align-items: left;
 }
 
 .section-one h2 {
@@ -44,5 +51,39 @@
   font-weight: 700;
   line-height: 32px;
   letter-spacing: 0em;
-  text-align: center;
+  text-align: left;
+  margin-left: 2rem;
+  color: #fff5e1;
 }
+
+.section-one p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  width: 87%;
+  color: #fff;
+}
+
+.section-one {
+  background: url('images/first-pic.png') rgba(28, 26, 25, 1) no-repeat;
+  background-position: right bottom;
+  min-height: 80vh;
+}
+
+.items {
+  list-style: none;
+  display: flex;
+  margin-left: 1.8rem;
+  align-items: left;
+}
+
+.item {
+  padding: 1rem;
+}
+

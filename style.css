@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Crete+Round&family=Dosis:wght@300;400&family=Inter:wght@400;800&family=Montserrat:wght@700&family=Poppins:wght@200;600&family=Quicksand:wght@700&family=Roboto:wght@700&family=Space+Mono:ital@1&display=swap');
+
+* {
+  box-sizing: content-box;
+    padding: 0;
+    margin: 0 
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background: #3c3a39;
+  color: #eee;
+  align-items: center;
+  padding: 30px 10%;
+  list-style: none;
+}
+
+.logo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.section-one h1 {
+  font-family: 'Crete Round', serif;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  color: #ff6b00;
+  /* background: #1c1a19; */
+  text-align: center;
+}
+
+.section-one h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
+}

@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Portfolio: setup and mobile version skeleton
 
 > Understand how to parse a Figma design to create a UI.
@@ -14,14 +12,10 @@
 - HTML & CSS 
 - Linter installation
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://127.0.0.1:5500/)
 
 
 To get a local copy up and running follow these simple example steps.
-
-### git@github.com:Have-Samuel/setup.git
 
 ### Linters
 

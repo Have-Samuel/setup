@@ -11,6 +11,7 @@
 - HTML & CSS 
 - Linter installation
 - Applied Flexbox
+- Figma Desin
 
 👤 **Have-Samuel**
 

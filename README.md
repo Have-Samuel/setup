@@ -1,60 +1,23 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio: setup and mobile version skeleton
 
-# setup and mobile version skeleton
-
-> Understanding how to parse a Figma design to create a UI.
-> Using Flexbox to place elements in the page.
+> Understand how to parse a Figma design to create a UI.
+> Apply Flexbox to place elements in the page.
 > Build a personal portfolio site.
->Use images and backgrounds to enhance the look of the website..
+> Use images and backgrounds to enhance the look of the website.
 
 ## Built With
 
-- HTML & CSS
-- Git & Github
-- Flexbox
+- Git & Github workflow
+- HTML & CSS 
+- Linter installation
+- Applied Flexbox
 - Figma Desin
 
-## Live Demo (if available)
+👤 **Have-Samuel**
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@githubhandle](https://github.com/Have-Samuel)
+- Twitter: [@twitterhandle](https://twitter.com/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -67,9 +30,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-Thanks to Microverse
 
 ## 📝 License
 

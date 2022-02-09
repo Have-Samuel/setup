@@ -1,15 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# setup and mobile version skeleton
 
-> Description the project.
-
+> Understanding how to parse a Figma design to create a UI.
+> Using Flexbox to place elements in the page.
+> Build a personal portfolio site.
+>Use images and backgrounds to enhance the look of the website..
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Git & Github
+- Flexbox
+- Figma Desin
 
 ## Live Demo (if available)
 

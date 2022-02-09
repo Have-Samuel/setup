@@ -74,7 +74,7 @@
 .section-one {
   background: url('images/first-pic.png') rgba(28, 26, 25, 1) no-repeat;
   background-position: right bottom;
-  min-height: 80vh; 
+  min-height: 80vh;
 }
 
 .items {

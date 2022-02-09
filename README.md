@@ -5,19 +5,12 @@
 > Build a personal portfolio site.
 > Use images and backgrounds to enhance the look of the website.
 
-
 ## Built With
 
 - Git & Github workflow
 - HTML & CSS 
 - Linter installation
-
-[Live Demo Link](https://127.0.0.1:5500/)
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Linters
+- Applied Flexbox
 
 👤 **Have-Samuel**
 
